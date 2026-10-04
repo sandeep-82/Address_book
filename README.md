@@ -30,6 +30,7 @@ A menu-driven C application for managing contacts with input validation and file
 
 ## Project Structure
 
+```text
 Address_book/
 ├── main.c          # Program entry point and menu handling
 ├── contact.c       # Contact management and file operations
@@ -37,3 +38,4 @@ Address_book/
 ├── contacts.txt    # Persistent contact data
 ├── README.md       # Project documentation
 └── .gitignore      # Ignores generated files
+```
